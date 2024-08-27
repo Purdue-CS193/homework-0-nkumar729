@@ -1,4 +1,3 @@
-## Homework
 # Nila Kumar's First CS193 Homework
 - I like that CS193 has less people in the class than all of my other classes.
 - I like that CS193 has a magic word. It makes it more interesting.
